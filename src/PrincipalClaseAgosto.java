@@ -37,6 +37,7 @@ public class PrincipalClaseAgosto {
         //mostrar el nuevo saldo de la cuenta
         System.out.printf("Saldo de la Cuenta 1: Q %.2f\n",
         cuenta1.obtenerSaldo());
+        System.out.println("Este es un cambio");
         
     }
     
