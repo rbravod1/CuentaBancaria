@@ -38,6 +38,7 @@ public class PrincipalClaseAgosto {
         System.out.printf("Saldo de la Cuenta 1: Q %.2f\n",
         cuenta1.obtenerSaldo());
         System.out.println("Este es un cambio");
+        System.out.println("Segundo Cambio");
         
     }
     
